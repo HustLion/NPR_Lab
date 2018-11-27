@@ -4,7 +4,7 @@ This project is intended to test some NPR in Unity.
 
 # Unity Version
 
-Unity 5.3.0 Personal
+Unity 2018.2.5f1 (64bit) Personal
 
 # Current NPR Labs
 
